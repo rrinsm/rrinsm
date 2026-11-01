@@ -1,20 +1,4 @@
-[readme.md](https://github.com/user-attachments/files/34230431/readme.md)
-
-
-<!--
-**rrinsm/rrinsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[README.md](https://github.com/user-attachments/files/34236897/README.md)
 # hi, i'm Arina 👋
 
 a student working with data at the intersection of finance and psychology
@@ -25,6 +9,10 @@ a student working with data at the intersection of finance and psychology
 - **sql**: cte, window functions, cohorts
 - **statistics**: a/b testing, bootstrap, logistic regression, factor analysis
 - **go**: slowly getting into backend
+
+## 🗂 projects
+
+- 🧠 [turning point: finding the moment when someone's writing starts to signal a mental health decline](https://github.com/rrinsm/turning-point)
 
 ## 🔮 something else
 
