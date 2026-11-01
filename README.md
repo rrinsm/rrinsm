@@ -1,5 +1,5 @@
 [readme.md](https://github.com/user-attachments/files/34230431/readme.md)
-## Hi there 👋
+
 
 <!--
 **rrinsm/rrinsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
